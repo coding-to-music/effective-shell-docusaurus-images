@@ -14,6 +14,9 @@ statistics.csv
 
 # Dependencies
 /node_modules
+package-lock.json
+.env
+
 
 # Production
 /build
@@ -37,3 +40,4 @@ yarn-error.log*
 
 # Ignore Draw.io backups.
 *.bkp
+.vercel

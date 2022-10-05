@@ -4,6 +4,10 @@
 
 https://github.com/coding-to-music/effective-shell-docusaurus-images
 
+https://effective-shell-docusaurus-images.vercel.app
+
+https://vercel.com/coding-to-music/effective-shell-docusaurus-images
+
 From / By https://github.com/dwmkerr/effective-shell
 
 https://effective-shell.com/
