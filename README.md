@@ -1,7 +1,39 @@
-# effective-shell 
+# effective-shell-docusaurus-images
+
+# 🚀 Terraform module for Vault deployment on Digitalocean 🚀
+
+https://github.com/coding-to-music/effective-shell-docusaurus-images
+
+From / By https://github.com/dwmkerr/effective-shell
+
+https://effective-shell.com/
+
+## Environment variables:
+
+```java
+
+```
+
+## user interfaces:
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/effective-shell-docusaurus-images.git
+git push -u origin main
+```
+
+# effective-shell
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Release Please](https://github.com/dwmkerr/effective-shell/actions/workflows/release-please.yaml/badge.svg)](https://github.com/dwmkerr/effective-shell/actions/workflows/release-please.yaml) ![Version Badge](https://img.shields.io/github/v/tag/dwmkerr/effective-shell?label=version) [![Creative Commons BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -12,16 +44,16 @@ If you find this book useful, please do consider [sponsoring me](https://github.
 
 <!-- vim-markdown-toc GFM -->
 
-* [Introduction](#introduction)
-* [Installing the Samples](#installing-the-samples)
-* [The Website](#the-website)
-    * [Building the Website](#building-the-website)
-* [Versioning](#versioning)
-* [Contributing](#contributing)
-* [Copyright & Licensing](#copyright--licensing)
-* [ASCII Terminal Recordings](#ascii-terminal-recordings)
-* [Thanks!](#thanks)
-* [Contributors ✨](#contributors-)
+- [Introduction](#introduction)
+- [Installing the Samples](#installing-the-samples)
+- [The Website](#the-website)
+  - [Building the Website](#building-the-website)
+- [Versioning](#versioning)
+- [Contributing](#contributing)
+- [Copyright & Licensing](#copyright--licensing)
+- [ASCII Terminal Recordings](#ascii-terminal-recordings)
+- [Thanks!](#thanks)
+- [Contributors ✨](#contributors-)
 
 <!-- vim-markdown-toc -->
 

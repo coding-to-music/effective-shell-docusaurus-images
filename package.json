@@ -1,5 +1,5 @@
 {
-  "name": "effective-shell",
+  "name": "effective-shell-docusaurus-images",
   "version": "0.26.2",
   "private": false,
   "scripts": {
@@ -7,7 +7,8 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "real:deploy": "docusaurus deploy",
+    "deploy": "git add . && git commit -m Build && git push",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
