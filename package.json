@@ -1,6 +1,6 @@
 {
   "name": "effective-shell-docusaurus-images",
-  "version": "0.26.2",
+  "version": "0.23.2",
   "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
