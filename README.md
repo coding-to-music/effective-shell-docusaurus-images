@@ -1,6 +1,6 @@
 # effective-shell-docusaurus-images
 
-# 🚀 Terraform module for Vault deployment on Digitalocean 🚀
+# 🚀 About Text, samples and website for the 'Effective Shell' series. Made with Docusaurus 🚀
 
 https://github.com/coding-to-music/effective-shell-docusaurus-images
 
